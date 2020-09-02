@@ -1,0 +1,23 @@
+[
+    {
+        "category": "UI",
+        "description": "Submit button coming to the extreme left. Refer the screenshots.",
+        "priority": 2,
+        "status":"open",
+        "changeStatus":"<a href=''>Close Defect</a>"
+    },
+    {
+        "category": "Functional",
+        "description": "While submitting the form data, a confirmation popupshould appear. Refer the SRS document.",
+        "priority": 1,
+        "status":"open",
+        "changeStatus":"<a href=''>Close Defect</a>"
+    },
+    {
+        "category": "Change Request",
+        "description": "Add remove user functionality",
+        "priority": 3,
+        "status":"closed",
+        "changeStatus":"No actions pending"
+    }
+]
